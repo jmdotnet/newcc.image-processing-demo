@@ -1,0 +1,12 @@
+﻿{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "images/{blobName}",
+      "connection": "newccazurefunctionsmedia"
+    }
+  ]
+}
