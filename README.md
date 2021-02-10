@@ -1,6 +1,6 @@
 
 
-# Demo from Building Microservices with Azure functions talk
+# Demo from Building Microservices with Azure functions
 @ North East Wisconsin Code Camp
 
 Slides:
